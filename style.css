@@ -1,0 +1,21 @@
+.container {
+    border-style: solid;
+    border-width: thin;
+    margin: 5%;
+    padding: 1%;
+}
+
+.inner-container {
+    border-style: solid; 
+    border-color: black;
+    padding: 1%;
+}
+
+.header, .footer, .stock-image {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    justify-content: center;
+}
